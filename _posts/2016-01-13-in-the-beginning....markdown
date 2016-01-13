@@ -19,13 +19,20 @@ In 1984:
 - My dad took me to the Macintosh introduciton with Steve Jobs.
 
 Now I am combining them all:
-- BASIC, 
-- Spreadsheets, 
+
+- BASIC
+
+- Spreadsheets
+
 - Symbolic calculation (what Einstein needed for the H-Bomb) 
 
-   to automate my life...
+    To automate my life...
 
-Sources (partial)
+Sources (partial):
+
 https://www.princeton.edu/turing/alan/history-of-computing-at-p/
+
 http://www.atomicheritage.org/history/computing-and-manhattan-project
+
 http://ftp.arl.army.mil/mike/comphist/96summary/
+
