@@ -1,11 +1,11 @@
 ---
 published: true
-title: Genesis
+title: Genesis - A Word from our Sponser
 layout: post
 ---
-From the Good Book:
+From the "Good Book":
 
-- God Made Earth
+- God Made Adam
 
 - Adam Choose Poorly
 
