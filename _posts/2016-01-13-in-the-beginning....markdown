@@ -12,13 +12,14 @@ In 1983:
 - I learned that Army automated the H-Bomb with an artillery arithmetic machine
 
 In 1984:
+
 - I read 1984
 
 - The SuperBowl had the Apple "1984 Ad"
 
 - My dad took me to the Macintosh introduciton with Steve Jobs.
 
-Now I am combining them all:
+Now I am combining them all (after trying just about everything on TIOBE :^)
 
 - BASIC
 
@@ -35,4 +36,3 @@ https://www.princeton.edu/turing/alan/history-of-computing-at-p/
 http://www.atomicheritage.org/history/computing-and-manhattan-project
 
 http://ftp.arl.army.mil/mike/comphist/96summary/
-
